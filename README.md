@@ -1,8 +1,8 @@
-# 1llm2ruletheworld
+# 1LLM2RuleThemAll
 
-This is my learning project where I’m experimenting with building an LLM from scratch and playing around with text generation.
+This is my learning project where I am experimenting with building an LLM from scratch and playing around with text generation.
 
-# Dataset
+## Dataset
 
 I trained on The Lord of the Rings trilogy, split into 6 books (~60 chapters):
 
@@ -12,7 +12,7 @@ The Two Towers (Books III & IV)
 
 The Return of the King (Books V & VI)
 
-# Goals
+## Goals
 
 Learn the fundamentals of LLMs (tokenization, embeddings, transformers)
 
@@ -20,6 +20,7 @@ Train small models for fun experiments
 
 Generate outputs inspired by Tolkien’s world
 
-Build intuition, not a state-of-the-art model
+Build intuition, not a state-of-the-art model.
+
 
 
