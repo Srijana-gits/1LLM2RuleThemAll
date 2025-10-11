@@ -1,3 +1,9 @@
+# architecture.py
+
+"""
+this script contains code for defining the LLM architecture.
+"""
+
 import tiktoken
 import torch
 import torch.nn as nn
@@ -100,4 +106,4 @@ class GPTModel(nn.Module):
 
 
 
-    
+   

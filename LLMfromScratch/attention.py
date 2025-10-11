@@ -1,3 +1,7 @@
+#attention.py
+"""
+This script implements the attention mechanism in neural networks.
+"""
 import torch
 import torch.nn as nn
 

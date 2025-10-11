@@ -1,0 +1,7 @@
+/.venv/
+BookAndDataFiles/
+text_spam_collection/
+LLMfromScratch/__pycache__/
+Fine\ Tuning/
+TextDataProcessing/__pycache__/
+
